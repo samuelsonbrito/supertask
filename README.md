@@ -4,7 +4,7 @@
 
 Documentação com Swagger-ui. Disponível em http://localhost:8585/swagger-ui.html#/task45resource
 
-Alterar a senha do banco no arquivo: application.properties - Nome do banco: supero
+Alterar a senha do banco no arquivo: application.properties - Criar banco de dados com nomo: supero - Tabelas geradas automaticamente
  
 # SuperTask - Frontend - VueJS
 
